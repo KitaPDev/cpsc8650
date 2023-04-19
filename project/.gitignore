@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 BSE_BET_DATA
 .vscode
+norm_images.npy
+project.h5
